@@ -1,5 +1,5 @@
 const nome = 'Leandro'
-const peso = 84
+const peso = 110
 const altura = 1.88
 const sexo = 'masculino'
 const imc =  peso/(altura * altura);
