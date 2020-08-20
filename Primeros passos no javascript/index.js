@@ -9,17 +9,19 @@
 
 
 
-const aluno1 = 'Leandro'  // varialvel string
-const notaaluno1 = 1.8 // variavel number
 
-const aluno2 = 'Diego'
-const notaaluno2 = 10
+/*-----------------------------------------------
+//const aluno1 = 'Leandro'  // varialvel string
+//const notaaluno1 = 1.8 // variavel number
 
-const aluno3 = 'Lilian'
-const notaaluno3 = 2
+//const aluno2 = 'Diego'
+//const notaaluno2 = 10
+
+//const aluno3 = 'Lilian'
+//const notaaluno3 = 2
 
 
-const media = (notaaluno1 + notaaluno2 + notaaluno3) / 3
+//const media = (notaaluno1 + notaaluno2 + notaaluno3) / 3
 
 // se a média for maior que 5, parabenizar a turma
 //Estrutra condicional
@@ -30,6 +32,33 @@ if (media > 5) {
   //faz outra coisa 
   console.log('A média é menor  que 5')
 }
+---------------------------------------------*/
+
+// Trabalhando com objeto e ARRAY 
 
 
+const alunos = [
+  {
+    nome: "Leandro",
+    nota: 9.8
+  },
+  {
+    nome: "Lilian",
+    nota: 10
 
+  },
+
+  {
+    nome: "Felipe",
+    nota: 3
+  
+  }
+]
+
+
+const nomesDeAlunos = ["Leandro", "Lilian", "Felipe"]
+
+console.log(alunos)
+
+
+//Aula 10
