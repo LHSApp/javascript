@@ -7,9 +7,8 @@
 </h3>
 
 <h4>OPERADORES DE COMPARAÇÃO</h4>
-<ol>
-    
-<li> 
+ 
+ 
 > MAIOR
 < MENOR
 >= MAIOR IGUAL A
@@ -19,8 +18,3 @@
 != DIFERENTE DE
 !===  DIFERENTE, INCLUSIVE DO TIPO
 
-</li> 
-
-
-    
-</ol>
