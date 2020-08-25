@@ -6,15 +6,20 @@
  Primeiros passo no JS
 </h3>
 
-<h4>OPERADORES DE COMPARAÇÃO</h4>
- 
- 
-> MAIOR
-< MENOR
->= MAIOR IGUAL A
-<= MENOR IGUAL A
-== IGUAL A
-=== IGUAL E DO MESMO TIPO
-!= DIFERENTE DE
-!===  DIFERENTE, INCLUSIVE DO TIPO
+<h4 >OPERADORES DE COMPARAÇÃO </h4>
+ <STRONG>
 
+<ul>
+
+<li>> MAIOR </li>
+<li>< MENOR </li>
+<li>>= MAIOR IGUAL A </li>
+<li>
+<= MENOR IGUAL A </li>
+<li>
+== IGUAL A </li>
+<li>
+=== IGUAL E DO MESMO TIPO </li>
+<li>!===  DIFERENTE, INCLUSIVE DO TIPO </li>
+
+</ul>
