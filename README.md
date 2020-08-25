@@ -6,7 +6,7 @@
  Primeiros passo no JS
 </h3>
 
-
+<h5>OPERADORES DE COMPARAÇÃO</h5>
 <ul>
 
 <li>> MAIOR </li>
