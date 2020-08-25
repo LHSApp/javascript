@@ -6,8 +6,6 @@
  Primeiros passo no JS
 </h3>
 
-<h4 >OPERADORES DE COMPARAÇÃO </h4>
- <STRONG>
 
 <ul>
 
