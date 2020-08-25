@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
- Primeiros passo no JS
+ Primeiros passos no JS
 </h3>
 
 <h5>OPERADORES DE COMPARAÇÃO</h5>
