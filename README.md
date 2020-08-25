@@ -7,15 +7,14 @@
 </h3>
 
 <h4>OPERADORES DE COMPARAÇÃO</h4>
- /*----------------------------------------------------------------
-> MAIOR
-< MENOR
->= MAIOR IGUAL A
-<= MENOR IGUAL A
-== IGUAL A
-=== IGUAL E DO MESMO TIPO
-!= DIFERENTE DE
-!===  DIFERENTE, INCLUSIVE DO TIPO
+ <BR>
+> MAIOR <BR>
+< MENOR <BR>
+>= MAIOR IGUAL A <BR>
+<= MENOR IGUAL A <BR>
+== IGUAL A <BR>
+=== IGUAL E DO MESMO TIPO <BR>
+!= DIFERENTE DE <BR>
+!===  DIFERENTE, INCLUSIVE DO TIPO <BR>
 
 
-//----------------------------------------------------------------*/
