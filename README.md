@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="JS" src="https://www.flaticon.com/authors/pixel-perfect"" width="200px" />
+    <img alt="JS" src="https://www.flaticon.com/authors/pixel-perfect" width="200px" />
 </h1>
 
 <h3 align="center">
