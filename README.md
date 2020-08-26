@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="JS" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png" width="200px" />
+    <i class="fab fa-js"></i>
 </h1>
 
 <h3 align="center">
