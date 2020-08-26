@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="JS" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png" width="400px" />
+    <img alt="JS" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -23,5 +23,5 @@
 </ul>
 
 <h5 align="center">
-    <img src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/operadores.png?raw=true" width="400px"/></h5>
+    <img src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/operadores.png?raw=true" width="300px"/></h5>
 
