@@ -1,9 +1,9 @@
 
   // Construção e impressão de objetos 
 const usuario = {
-  nome: "LHSApp",
+  nome: "LHS",
   empresa: {
-    nome: "eandro",
+    nome: "Leandro",
     cor: "Roxo",
     foco: "Programação",
     endereco:{
