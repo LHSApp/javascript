@@ -22,6 +22,6 @@
 
 </ul>
 
-<span>
-    <img src="https://www.imagemhost.com.br/image/U6mTx"/></span>
+<h5 align="center">
+    <img src="https://www.imagemhost.com.br/image/U6mTx" width="400px"/></h5>
 
