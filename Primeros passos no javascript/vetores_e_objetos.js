@@ -8,7 +8,7 @@ const objeto = {
 };
 
 const usuario = {
-  nome: "LHSApp",
+  nome: "Leandro",
   idade: 32,
 };
 
