@@ -26,6 +26,6 @@
     <img src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/operadores.png?raw=true" width="350px"/></h5>
 
 
-<p>Construção e Impressão de Objetos</p>
+<p align="center">Construção e Impressão de Objetos
 
-<img  src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/Impress%C3%A3o%20de%20Objetos.png?raw=true" width="400px"/>
+<img  src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/Impress%C3%A3o%20de%20Objetos.png?raw=true" width="400px"/></p>
