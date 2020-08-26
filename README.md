@@ -30,3 +30,8 @@
 <h5 align="center">
 
 <img  src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/Impress%C3%A3o%20de%20Objetos.png?raw=true" width="1500px"/></h5>
+
+
+<P>Vetores e objetos</P>
+<span align="center">
+    <img src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/VETORES_E_OBJETOS.png?raw=true" width="1500px" /></span>
