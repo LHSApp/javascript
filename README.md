@@ -1,5 +1,5 @@
 <h1 align="center">
-    <i class="fab fa-js"></i>
+    <img alt="JS" src="https://www.flaticon.com/authors/pixel-perfect"" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -23,5 +23,5 @@
 </ul>
 
 <h5 align="center">
-    <img src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/operadores.png?raw=true" width="300px"/></h5>
+    <img src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/operadores.png?raw=true" width="350px"/></h5>
 
