@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="JS" src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/PRINTS/java.png?raw=true" width="200px" />
+    <img alt="JS" src="https://github.com/LHSApp/javascript/blob/master/Primeros%20passos%20no%20javascript/README/java.png?raw=true" width="200px" />
 </h1>
 
 <h3 align="center">
