@@ -61,14 +61,31 @@ enviaMensagem(media2, "Turma B");
 //e  tambem enviar uma mensagem
 
 function marcarComoRprovado(alunos) {
-  for (let aluno of alunos) {
-    aluno.reprovado = false;
-    if (aluno.nota < 5) {
-      aluno.reprovado = true;
-    }
+  aluno.reprovado = false;
+  if (aluno.nota < 5) {
+    aluno.reprovado = true;
   }
-  console.table(alunos)
+  //console.table(alunos)
 }
 
 
-marcarComoRprovado(alunosDaTumaA)
+
+
+function enviarMensagemReprovado(aluno){
+
+  if(aluno.reprovado){
+
+    console.log(`O aluno ${aluno.nome} está reprovado!`)
+  }
+}
+
+function alunosReprovado(alunos){
+
+  for (let aluno of alunos) {
+    marcarComoRprovado(aluno);
+    enviarMensagemReprovado(aluno)
+  }
+}
+
+alunosReprovado(alunosDaTumaA)
+alunosReprovado(alunosDaTumaB)
