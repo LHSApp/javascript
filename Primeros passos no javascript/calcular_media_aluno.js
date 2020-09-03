@@ -60,7 +60,7 @@ enviaMensagem(media2, "Turma B");
 // for menor que 5
 //e  tambem enviar uma mensagem
 
-function marcarComoRprovado(alunos) {
+function marcarComoReprovado(aluno) {
   aluno.reprovado = false;
   if (aluno.nota < 5) {
     aluno.reprovado = true;
@@ -82,7 +82,7 @@ function enviarMensagemReprovado(aluno){
 function alunosReprovado(alunos){
 
   for (let aluno of alunos) {
-    marcarComoRprovado(aluno);
+    marcarComoReprovado(aluno);
     enviarMensagemReprovado(aluno)
   }
 }
