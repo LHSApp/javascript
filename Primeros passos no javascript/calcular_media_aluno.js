@@ -11,19 +11,19 @@ const alunosDaTumaA = [
   },
   {
     nome: "Lilian",
-    nota: 10,
+    nota: 0,
   },
 
   {
     nome: "Felipe",
-    nota: 2,
+    nota: 8,
   },
 ];
 
 const alunosDaTumaB = [
   {
     nome: "Leandro1",
-    nota: 10,
+    nota: 0,
   },
   {
     nome: "Lilian2",
